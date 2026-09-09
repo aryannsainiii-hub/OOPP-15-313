@@ -18,7 +18,7 @@ class Point{
     //nameless objecct creation
     // point add (point q){
     //     return point(x+q.x,y+q.y);
-    // }
+    // }}
 };
 int main() {
     // your code goes here
