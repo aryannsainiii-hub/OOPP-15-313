@@ -1,0 +1,6 @@
+
+*.exe
+
+*/*.exe
+
+//whitelist file with extension and source code
