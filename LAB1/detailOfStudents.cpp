@@ -8,6 +8,7 @@ class Student {
     string branch;
 
     public:
+    //putting inputs
     void input(){
         cout<<"name";
         cin>>name;
