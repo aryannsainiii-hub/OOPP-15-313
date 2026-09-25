@@ -15,7 +15,7 @@ class Time {
         cout<<hh<<" "<<mm<<" "<<ss<<endl;
     }
 };
-
+//
 int main(){
     Time t1,t2;
     t1.input(10,20,30);
