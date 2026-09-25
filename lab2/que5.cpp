@@ -20,7 +20,7 @@ public:
     void displaySalary() {
         cout << "Salary after 10% increment: " << salary << endl;
     }
-};
+};//
 
 int main() {
     Employee emp(50000);
