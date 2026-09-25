@@ -17,7 +17,7 @@ class point {
         cout<<"X :"<<x<<endl;
         cout<<"Y :"<<y<<endl;
     }
-};
+};//
 
 int main(){
     point p1,p2;
