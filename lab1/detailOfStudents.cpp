@@ -16,7 +16,7 @@ class Student {
         cin>>roll;
         cout<<"branch";
         cin>>branch;
-    }
+    }//
     void show(){
         cout<<"name :"<<name<<endl;
         cout<<"roll :"<<roll<<endl;
