@@ -18,12 +18,10 @@ inline void point::input() {
     cin >> y;
 }
 
-//  inline function
-inline void point::show() {
-    cout << "X : " << x << endl;
-    cout << "Y : " << y << endl;
+inline void point ::show(){
+    cout<<"X:"<<x<<endl;
+    cout<<"Y:"<<endl;
 }
-
 int main() {
     point p1, p2;
 
