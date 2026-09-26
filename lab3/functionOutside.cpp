@@ -9,7 +9,7 @@ public:
     void show();
 };
 
-// outside the class
+// outside the classs
 void Time::input(int h, int m, int s) {
     hh = h;
     mm = m;
