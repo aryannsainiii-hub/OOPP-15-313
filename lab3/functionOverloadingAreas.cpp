@@ -36,4 +36,4 @@ int main() {
          << area(6.0, 3.0, true) << endl;
 
     return 0;
-}
+}//
