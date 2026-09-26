@@ -9,7 +9,7 @@ public:
     void show();
 };
 
-// inline function
+// inline functionn
 inline void point::input() {
     cout << "X : ";
     cin >> x;
