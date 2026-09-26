@@ -20,4 +20,4 @@ int main() {
     cout << "Updated Salary: " << salary << endl;
 
     return 0;
-}
+}//
