@@ -21,6 +21,6 @@ class director:public man{
 int main(){
     // man m;
     //emp e;
-    //director d;
+    //director d;;
     return 0;
 }
