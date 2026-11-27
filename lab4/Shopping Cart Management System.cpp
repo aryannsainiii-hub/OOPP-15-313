@@ -46,7 +46,7 @@ double calculateTotal(const vector<Item>& cart)
     return total;
 }
 
-// Apply 10% discount on items priced above Rs. 1000
+//  10% discount on items 1000
 void applyDiscount(vector<Item>& cart)
 {
     for (auto &x : cart)
