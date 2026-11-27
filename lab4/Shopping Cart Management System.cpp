@@ -58,7 +58,7 @@ void applyDiscount(vector<Item>& cart)
     }
 }
 
-// Find the item having the highest unit price
+//  highest unit price
 Item findMostExpensiveItem(const vector<Item>& cart)
 {
     Item ans = cart[0];
