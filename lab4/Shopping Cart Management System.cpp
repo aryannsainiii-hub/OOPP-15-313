@@ -33,7 +33,7 @@ void displayCart(const vector<Item>& cart)
     }
 }
 
-// Calculate the total cart amount
+// Calculate cart amount
 double calculateTotal(const vector<Item>& cart)
 {
     double total = 0;
