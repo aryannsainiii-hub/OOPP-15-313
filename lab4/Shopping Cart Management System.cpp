@@ -12,7 +12,7 @@ public:
     double price;
 };
 
-// Display all items in the cart
+// Display
 void displayCart(const vector<Item>& cart)
 {
     cout << "\n----------- SHOPPING CART -----------\n";
