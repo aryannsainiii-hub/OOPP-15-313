@@ -99,27 +99,21 @@ int main()
         cart.push_back(x);
     }
 
-    // Display original cart
     displayCart(cart);
 
-    // Calculate original total
     cout << "\nTotal Amount: Rs. "
          << calculateTotal(cart) << endl;
 
-    // Find most expensive item
     Item x = findMostExpensiveItem(cart);
 
     cout << "\nMost Expensive Item: " << x.name;
     cout << "\nPrice: Rs. " << x.price << endl;
 
-    // Apply discount
     applyDiscount(cart);
 
-    // Display updated cart
     cout << "\n----------- AFTER DISCOUNT -----------";
     displayCart(cart);
 
-    // Calculate updated total
     cout << "\nUpdated Total Amount: Rs. "
          << calculateTotal(cart) << endl;
 
